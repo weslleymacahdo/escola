@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body
+  .poster1{
+   width: 500px;
+   height: 500px;
+  }
+
+  .poster2{
+    width: 500px;
+    height: 500px;
+   }
+
+   .poster3{
+    width: 500px;
+    height: 500px; 
+   }
+
